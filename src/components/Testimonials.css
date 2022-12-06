@@ -1,0 +1,15 @@
+.Testimonials{
+    text-align: center;
+}
+.testimonial-card{
+    border:none;
+}
+
+.user-content p{
+    font-size:12px;
+}
+
+
+.ratings i{
+    color:blue;
+}

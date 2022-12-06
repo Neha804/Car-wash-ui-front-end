@@ -1,0 +1,30 @@
+
+.homestart{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url(../assets/1.jpg);
+    opacity: 0.9;
+    background-size: 100%;
+    background-position: center;
+    height: 100vh;
+
+}
+
+#homepageSearch{
+    margin-top: 15%;
+    text-align: center;
+}
+
+.pricing-container{
+    width: 60%;
+}
+
+
+#pricingCards{
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 0;
+}
+
+.homeBg3{
+    background: url(../assets/3.jpg);
+}
+

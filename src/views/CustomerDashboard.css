@@ -1,0 +1,7 @@
+#custDashboardArea{
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.50), rgba(0, 0, 0, 0.50)), url(../assets/dashback.jpg);
+    opacity: 0.9;
+    background-size: 100%;
+    background-position: center;
+    
+}

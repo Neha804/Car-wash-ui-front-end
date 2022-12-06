@@ -1,0 +1,14 @@
+.Homeregister{
+    background: url("../assets/homecontact.jpg");
+    background-size: 90%;
+    background-position: center;
+}
+
+.homecontactbtn{
+    padding-top: 10px;
+    width: 30%;
+}
+
+.homecontactbtn1{
+    width: 200px;
+}
